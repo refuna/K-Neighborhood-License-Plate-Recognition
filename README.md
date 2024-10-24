@@ -1,1 +1,3 @@
-# K-Neighborhood-License-Plate-Recognition
+# License Plate Recognition Using K-Nearest Neighbors (K-NN)
+
+### This project implements license plate character recognition using the K-Nearest Neighbors (K-NN) algorithm. License plate recognition is a classic application in intelligent image processing, widely used in parking lot management and traffic surveillance. This project focuses on the character recognition task by using K-NN to identify and classify segmented license plate characters. The dataset includes segmented images of characters, including digits (0-9), letters (A-Z excluding O and I), and province abbreviations, resulting in 65 total classes. Each character is represented as a 20x20 binary grayscale image. The project will preprocess the image data and use K-NN for character recognition.
